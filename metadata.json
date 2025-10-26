@@ -1,0 +1,5 @@
+{
+  "name": "ملخص الأبحاث الذكي",
+  "description": "An intelligent web application to summarize Arabic research papers. Users can paste text or upload .txt/.docx files, and the AI provides a summary while preserving all original section titles.",
+  "requestFramePermissions": []
+}
